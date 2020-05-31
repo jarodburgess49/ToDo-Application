@@ -1,4 +1,4 @@
-A simple ToDO Application created by using React and Context API.
+My first project to practice React and Context API.
 You can add the Todo and remove the Todo upon completion.
 
 
